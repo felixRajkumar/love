@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+.intro{
+  margin-top: 0;
+  padding-top:80px;
+  padding-left: 430px;
+  color: #ff4057;
+  font-style: italic;
+  font-family: cursive;
+}
+.date{
+  margin-top: 0;
+  padding-top:10px;
+  padding-left: 550px;
+  color: #ff4057;
+  font-style: italic;
+  font-family: cursive;
+}
+.name
+{
+  margin-top: 0;
+  padding-top:10px;
+  padding-left: 520px;
+  color: #ff4057;
+  font-style: italic;
+  font-family: cursive;
+}
+.info
+{
+  border: solid;
+  margin: 2px;
+  background-image: url(https://images.unsplash.com/photo-1484609047056-d27d44e97ede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60);
+  background-size:cover;
+  height: 400px;
+  background-repeat: no-repeat;
+}
+.code{
+  background-image: url(https://i.pinimg.com/564x/67/8a/38/678a381ab5db34463865c4b2d15a8980.jpg);
+  background-size: cover;
+  border: solid;
+  margin: 2px;
+  height: 500px;
+  width: 400px;
+}
+.program{
+  margin-top: 50px;
+  margin-left: 50px;
+  font-size: 25px;
+  font-style:normal;
+  font-family: monospace;
+}
+.quote-image{
+  border: solid;
+  margin: 2px;
+  background-image: url(https://images.unsplash.com/photo-1432105117111-b8c5bed69654?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60);
+  background-size: cover;
+  height: 500px;
+}
+.quote{
+  margin-left: 300px;
+  margin-top: 90px;
+  font-family: Segoe Print;
+  color: black;
+  padding-left: 30px;
+  font-style:oblique;
+  font-size: 20px;
+}
+.tab{
+  background-color: #00d1cd;
+  border: solid;
+  border-color: black;
+  padding: 2px;
+  border-spacing: 10px;
+}
+tr{
+  border-color: black;
+  margin: 20px;
+}
